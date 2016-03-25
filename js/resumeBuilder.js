@@ -1,3 +1,8 @@
-/*
-This is empty on purpose! Your code to build the resume will go here.
- */
+ $('#main').append('Kamil Wozniak');
+
+ var awesomeThoughts = "I am Kamil Wozniak and I am AWESOME!";
+ var funThoughts = awesomeThoughts.replace("AWESOME", "FUN");
+ 
+ console.log(awesomeThoughts, funThoughts);
+
+ 
